@@ -104,4 +104,15 @@ main{
 }
 .skills container{
     display: flex;
+    justify-content: space-around;
+}
+.skill{
+    padding:30px;
+    border-radius:5px;
+    background: #fff;
+    box-shadow: 0PX 6PX 50PX 0PX(0, 0,0, 0.96);
+   
+}
+.skill-discription{
+    skill-description:
 }
