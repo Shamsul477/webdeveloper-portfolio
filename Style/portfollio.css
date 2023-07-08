@@ -129,3 +129,6 @@ main section{
     line-height: normal;
 
 }
+.resume-container{
+    display:flex;
+}
