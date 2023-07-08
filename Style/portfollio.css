@@ -85,6 +85,9 @@ main{
     max-width: 1140px;
     margin:0 auto;
 }
+main section{
+    margin-top: 130px;
+}
 
 .about{
     padding: 130px;
@@ -102,17 +105,27 @@ main{
 #what i do discription{
     padding: 30px 150px;
 }
-.skills container{
-    display: flex;
-    justify-content: space-around;
+.skills-container{
+    display:flex;
+    gap: 24px;
+  
 }
 .skill{
     padding:30px;
+   
     border-radius:5px;
     background: #fff;
     box-shadow: 0PX 6PX 50PX 0PX(0, 0,0, 0.96);
    
 }
 .skill-discription{
-    skill-description:
+    color:#474747;
+  
+}
+.resume-column-title{
+    color:#474747;
+    font-size: 30px;
+    font-weight: 700px;
+    line-height: normal;
+
 }
